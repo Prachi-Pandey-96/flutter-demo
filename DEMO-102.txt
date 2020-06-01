@@ -1,0 +1,5 @@
+Hello, I am vishakha.
+I am learning flutter to develop mobile apps on android as well as ios.
+Tools required to create mobile apps using flutter framework are:- Git,visual studio or android studio,Dart programming language etc.
+Let's know something about 'Git'- Git is a version control system which record changes in source code during software development.
+Visual studio is an IDE where we can run, modify,deploy and debug software.
