@@ -10,4 +10,3 @@ Who's using Flutter?
 4.Alibaba Group
 5. BMW
 6. CapitalOne
-7.Square
