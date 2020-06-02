@@ -10,13 +10,13 @@ Who's using Flutter?
 4.Alibaba Group
 5. BMW
 6. CapitalOne
-7. ABC
-8. PQR
-9. XYZ
-10.DEF
-11.LMN
-12.lkk
-13.jjb
-14.ekg
-15.kdrhkrdfh1fklkkmdhdl
-16.kdmhdmhdm
+7.lkk
+8.jjb
+9.ekg
+10.kdrhkrdfh1fklkkmdhdl
+11.kdmhdmhdm
+12. ABC
+13. PQR
+14. XYZ
+15.DEF
+16.LMN
